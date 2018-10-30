@@ -1,0 +1,15 @@
+*  { margin:0; padding:0; }
+.tgTB2009 { width:100%; height: 42px; min-width: 1000px; background: url(http://ossweb-img.qq.com/images/dnf/js/title/pics.png) 0 -70px repeat-x; text-align: center;}
+.tgTB2009 ul { width: 1000px; margin: 0 auto; *margin: 0; border: none !important; padding: 0 !important; text-align: left;}
+	.tgTB2009 li { margin: 0; padding: 0; font: 12px Tahoma; list-style: none; float: right;}
+	.tgTB2009 a { text-decoration: none; color: #565656 !important;}
+	.tgTB2009 a:hover { text-decoration: underline;}
+	
+	li.tgTBIcons { float: left;}
+		li.tgTBIcons a { display: block; height: 42px; width: 150px; float: left; text-indent: -500px; overflow: hidden; background: url(http://ossweb-img.qq.com/images/web/top/logo_XX.jpg) no-repeat;}
+		li.tgTBIcons a.tgTBIconsSec { width: 230px; background: url(http://ossweb-img.qq.com/images/xunxian/notice/topgg1028.jpg) no-repeat;}
+	li.tgTBMore { width: 113px; text-indent: 23px; line-height: 21px; margin-top: 10px; background: url(http://ossweb-img.qq.com/images/web/top/title_xl.jpg) no-repeat;}
+	li.tgTBPay { background: url(http://ossweb-img.qq.com/images/dnf/js/title/pics.png) no-repeat; height: 21px; line-height: 21px; width: 173px; margin-top: 10px; position: relative;}
+		li.tgTBPay a { padding: 0 15px; font-weight: bold;}
+	li.tgTBNavi { line-height: 42px; margin-right: -1px;}
+		li.tgTBNavi a { padding: 0 11px 0 7px; border-right: 1px solid #C9C9C9;}/*  |xGv00|fc83cff4953d964ac1afebeccc907800 */
