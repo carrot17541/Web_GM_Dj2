@@ -57,7 +57,7 @@ body{ background-color:#000;font:12px/1.6 "",tahoma,arial,sans-serif;color:#a854
 <body>
 <div class="wrq">
     <div id="mymovie"></div> 
-<nav class="navbar navbar-inverse navbar-fixed-top"> 
+<nav class="navbar"> 
     <div>
     <form action="?action=gm" method="post">
           <a href="https://trickgame24h.blogspot.com/" title=""><img src="https://3.bp.blogspot.com/--yRew9s0vAg/W4e7leNlSsI/AAAAAAAABSk/Cb2L3E4WB5sU_UZVvZRFiW-kSGU526TQwCLcBGAs/s200/logo.png" alt=""></a>
@@ -83,12 +83,15 @@ body{ background-color:#000;font:12px/1.6 "",tahoma,arial,sans-serif;color:#a854
         <input type="text" name="dy">
     </tr>
     <input class="btn btn-primary btn-xs" type="submit" value="Nạp Xu">
+
 </form>
 </div>
 </div>
 </nav>
 </ul>
+
 </div>
+
 <!--??Ȩ-->
 
 <!--??Ȩ-->
